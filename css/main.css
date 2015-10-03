@@ -75,7 +75,7 @@ li {
 
   .headshot {
     width: 100%;
-    padding: 0% 20% 0% 20%;
+    padding: 5% 20% 0% 20%;
   }
 
   .icon {
@@ -87,7 +87,7 @@ li {
   }
 
   p {
-    padding: 5% 20% 10% 20%;
+    padding: 5% 20% 5% 20%;
   }
 
 }

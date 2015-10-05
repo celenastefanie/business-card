@@ -97,6 +97,39 @@ li {
     font-size: 115%;
     line-height: 1.4;
   }
+
+  p {
+      padding-left: 15%;
+      padding-right: 0;
+      float: left;
+      width: 65%;
+      clear: both;
+      padding-top: 10px;
+  }
+
+  .icon {
+    width: 65%;
+  }
+
+  ul {
+    width: 35%;
+    overflow: hidden;
+    margin-right: 25%;
+  }
+
+  li {
+    float: right;
+    display:block;
+    clear: both;
+    padding-bottom: 1%;
+    padding-right; 5%;
+    width: 50%;
+  }
+
+  .headshot {
+    width: 80%;
+    padding: 5% 10% 0% 30%;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -104,7 +137,42 @@ li {
     font-size: 120%;
     line-height: 1.5;
   }
+
+  .icon {
+    width: 45%;
+  }
+
+  .headshot {
+    width: 80%;
+    padding: 5% 10% 0% 30%;
+  }
 }
+
+@media only screen and (min-width: 63em) {
+  header {
+    width: 50%;
+    float: left;
+    clear: both;
+  }
+
+  .headshot {
+    width: 90%;
+  }
+
+  main {
+    width: 50%;
+    float: right;
+    clear: both;
+  }
+  li {
+    list-style-type: none;
+    display: inline;
+    padding: 5%;
+    float: none;
+  }
+
+
+
 
 @media print {
 

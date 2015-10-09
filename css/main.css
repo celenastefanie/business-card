@@ -75,11 +75,11 @@ li {
   }
 
   .icon {
-    width: 10%;
+    width: 20%;
   }
 
   nav {
-    padding-left: 30%;
+    padding: 0 20%;
   }
 }
 
@@ -95,11 +95,11 @@ li {
   }
 
   .icon {
-    width: 10%;
+    width: 15%;
   }
 
   nav {
-    padding-left: 25%;
+    padding-left: 30%;
   }
 
   p {
@@ -118,14 +118,14 @@ li {
       padding-left: 15%;
       padding-right: 0;
       float: left;
-      width: 65%;
+      width: 60%;
       clear: both;
       padding-top: 10px;
   }
 
   .icon {
-    width: 65%;
-    padding-bottom: 5px;
+    width: 90%;
+    padding-bottom: 20px;
   }
 
   ul {
@@ -156,7 +156,7 @@ li {
   }
 
   .icon {
-    width: 40%;
+    width: 70%;
   }
 
   .headshot {
@@ -172,7 +172,7 @@ li {
     float: left;
     clear: both;
     overflow: hidden;
-    padding-top: 5%;
+    padding-top: 2%;
   }
 
   h1 {
@@ -186,10 +186,11 @@ li {
   }
 
   main {
-    padding-top: 5%;
+    padding-top: 3%;
     width: 50%;
     float: right;
     overflow: hidden;
+    padding-left: 5%;
   }
 
   p {

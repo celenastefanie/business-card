@@ -109,6 +109,7 @@ li {
 
   .icon {
     width: 65%;
+    padding-bottom: 5px;
   }
 
   ul {
@@ -139,7 +140,7 @@ li {
   }
 
   .icon {
-    width: 45%;
+    width: 40%;
   }
 
   .headshot {
@@ -192,7 +193,7 @@ li {
   }
 
   .icon {
-    width: 100%;
+    width: 90%;
   }
 
   li {
